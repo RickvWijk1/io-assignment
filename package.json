@@ -7,9 +7,9 @@
     "preview": "nuxt preview",
     "deploy": "gh-pages -d dist",
     "postinstall": "nuxt prepare"
-    
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "nuxt": "^3.2.3"
   }
 }
