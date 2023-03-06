@@ -1,5 +1,6 @@
 <template>
     <div class="layout-body">
+      <VitePwaManifest />
         <NuxtPage />
     </div>
 </template>

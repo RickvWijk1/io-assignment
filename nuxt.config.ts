@@ -41,21 +41,33 @@ export default ({
     buildModules: [
       '@nuxtjs/pwa',
     ],
+    
+    modules: [
+      '@vite-pwa/nuxt',
+    ],
 
     pwa: {
-        icon: {
-        },
-        meta: {
-          /* meta options */
-  
-        },
-        manifest:{
-          name: 'List of users',
-          short_name: 'Userlist',
-          description: 'List of users',
-          background_color: '#fff',
-          theme_color: '#fff'
-        }
+      manifest: {
+        name: 'UserList',
+        short_name: 'UserList',
+        description: 'A list of users',
+        background_color: '#fff',
+        theme_color: '#fff',
+        icons: [{
+          src: 'icon.png',
+          sizes: '512x512',
+          type: 'image/png',
+        }],
       },
+      workbox: {
+        navigateFallback: '/',
+      },
+      devOptions: {
+        enabled: true,
+        type: 'module',
+      }
+    },
+    
+
     
 })
