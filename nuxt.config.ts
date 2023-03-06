@@ -41,10 +41,6 @@ export default ({
     buildModules: [
       '@nuxtjs/pwa',
     ],
-    modules: [
-      '@nuxtjs/pwa',
-    ],
-    
 
     pwa: {
         icon: {
