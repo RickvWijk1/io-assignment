@@ -1,0 +1,34 @@
+<template>
+    <div class="layout-body">
+        <NuxtPage />
+    </div>
+</template>
+
+<script>
+
+</script>
+
+<style >
+html,
+body,
+#__nuxt,
+#__layout {
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.layout-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+</style>
