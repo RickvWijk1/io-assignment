@@ -10,7 +10,7 @@ export default ({
 
     components: true,
 
-    buildModules: [
+    modules: [
       '@nuxtjs/pwa',
     ],
 
