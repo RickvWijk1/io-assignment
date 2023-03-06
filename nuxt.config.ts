@@ -2,11 +2,18 @@
 export default ({
 
     target: 'static',
+    ssr: false,
+    
     router: {
         base: '/io-assignment/',
     },
 
     components: true,
+
+    buildModules: [
+      '@nuxtjs/pwa',
+    ],
+
     pwa: {
         icon: {
         },

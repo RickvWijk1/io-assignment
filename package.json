@@ -9,6 +9,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
     "eslint": "^8.35.0",
     "eslint-plugin-vue": "^9.9.0",
     "gh-pages": "^5.0.0",

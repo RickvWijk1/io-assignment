@@ -13,7 +13,11 @@
             </div>
           </li>
         </ul>
-        
+        <div class="user-profile">
+          <div>
+            <h2>Show Me</h2>
+          </div>
+        </div>
       </div>
     </div>
   </div>
