@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@nuxtjs/pwa": "^3.3.5",
+    "@vite-pwa/nuxt": "^0.0.6",
     "eslint": "^8.35.0",
     "eslint-plugin-vue": "^9.9.0",
     "gh-pages": "^5.0.0",
