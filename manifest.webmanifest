@@ -1,1 +1,1 @@
-{"name":"UserList","short_name":"UserList","start_url":"/","display":"standalone","background_color":"#fff","lang":"en","scope":"/","description":"A list of users","theme_color":"#fff","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png"}]}
+{"name":"UserList","short_name":"UserList","start_url":"/","display":"standalone","background_color":"#fff","lang":"en","scope":"/","description":"A list of users","theme_color":"#fff","icons":[{"src":"icons/icon.png","sizes":"512x512","type":"image/png"}]}
