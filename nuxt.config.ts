@@ -64,7 +64,7 @@ export default ({
       short_name: 'UserList',
       description: 'A list of users',
       display: 'standalone',
-      start_url: '/',
+      start_url: '/io-assignment/',
       background_color: '#fff',
       theme_color: '#fff',
       icons: [{
@@ -90,7 +90,7 @@ export default ({
       ],
     },
     workbox: {
-      navigateFallback: '/',
+      navigateFallback: '/io-assignment/',
     },
     devOptions: {
       enabled: true,
