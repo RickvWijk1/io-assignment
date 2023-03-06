@@ -1,1 +1,0 @@
-import{q as t,o as _,l as o,v as n,x as c}from"./entry.9db90b0f.js";const s={},a={class:"layout-body"};function r(l,d){const e=c;return _(),o("div",a,[n(e)])}const f=t(s,[["render",r]]);export{f as default};
