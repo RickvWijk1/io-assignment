@@ -51,10 +51,11 @@ export default ({
         name: 'UserList',
         short_name: 'UserList',
         description: 'A list of users',
+        start_url: '/',
         background_color: '#fff',
         theme_color: '#fff',
         icons: [{
-          src: 'icon.png',
+          src: 'icons/icon.png',
           sizes: '512x512',
           type: 'image/png',
         }],
