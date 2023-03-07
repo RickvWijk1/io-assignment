@@ -6,6 +6,9 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ![](list.gif)
 
+## PWA
+https://user-images.githubusercontent.com/58942595/223462777-b4e2b5d4-0036-4e6d-be20-ab612b180f45.mp4
+
 ## Setup
 
 Make sure to install the dependencies:
