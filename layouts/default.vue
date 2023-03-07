@@ -10,6 +10,9 @@
 </script>
 
 <style>
+*{
+  padding: 0;
+}
   html,
   body,
   #__nuxt,
@@ -18,6 +21,7 @@
     height: 100vh;
     padding: 0;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   p {
