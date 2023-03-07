@@ -2,6 +2,7 @@
 export default ({
 
   target: 'static',
+  // ssr: false,
 
   router: {
     base: '/io-assignment/',
